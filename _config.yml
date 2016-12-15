@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://mustafatasdemir.github.io
+title: Mustafa Ta&#351;demir
+email: mustafa.tasdemir@hotmail.com.tr
+author: Mustafa Ta&#351;demir
+description: Not just another blog..
+paginate: 5
+google_analytics: 
