@@ -94,7 +94,7 @@ p {
 .sidebar-wrapper .contact-list .fa {
   margin-right: 5px;
   font-size: 18px;
-  vertical-align: middle;
+  /*vertical-align: middle;*/
 }
 .sidebar-wrapper .contact-list li {
   margin-bottom: 15px;
