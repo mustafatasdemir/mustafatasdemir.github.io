@@ -1,12 +1,14 @@
 
 title: ironstone@github
 url: 'https://mustafatasdemir.github.io'
-baseurl: '/' #change it according to your repository name
+baseurl: '/127.0.0.1:4000/' #change it according to your repository name
 
 
 #Profile information
 name: Mustafa Taşdemir
-tagline: Software Engineer
+tagline1: Software Enthusiast.
+tagline2: Space Geek.
+tagline3: Engineer.
 pic: profile.png
 
 #sidebar links
