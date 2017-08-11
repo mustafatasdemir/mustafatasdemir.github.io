@@ -6,9 +6,9 @@ baseurl: '/' #change it according to your repository name
 
 #Profile information
 name: Mustafa Taşdemir
-tagline1: Software Enthusiast.
-tagline2: Space Geek.
-tagline3: Engineer.
+tagline1: Software Enthusiast
+tagline2: Space Geek
+tagline3: Engineer
 pic: profile.png
 
 #sidebar links
