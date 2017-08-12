@@ -8,6 +8,19 @@
 */
 /* styles.css */
 /* ======= Base ======= */
+
+/* Begin - Custom CSS */
+.langs {
+  padding-bottom: 3em;
+  text-align: right;
+  color: #97AAC3;
+}
+
+.other_lang {
+  color: #97AAC3;
+}
+/* End - Custom CSS */
+
 body {
   font-family: 'Roboto', sans-serif;
   color: #545E6C;
