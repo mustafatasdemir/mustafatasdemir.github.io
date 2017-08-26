@@ -19,6 +19,38 @@
 .other_lang {
   color: #2D7788;
 }
+
+.project-item:before {
+  font-family: 'FontAwesome';
+  content: '\f0da';
+  margin: 0 10px 0 0;
+  color: #97AAC3;
+}
+
+.project-item {
+  padding-top: 5px;
+}
+
+.contributors:before {
+  font-family: 'FontAwesome';
+  content: '\f0c0';
+  margin: 0 10px 0 0;
+  color: #97AAC3;
+}
+
+.contributors {
+  padding-top: 10px;
+}
+
+.contributor-image {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  display:inline-block;
+  margin-right: 10px;
+  margin-bottom: 30px;
+}
+
 /* End - Custom CSS */
 
 body {
@@ -239,6 +271,7 @@ p {
   font-weight: 400;
   margin-top: 0;
   margin-bottom: 5px;
+  color: #2d7788;
 }
 .main-wrapper .projects-section .intro {
   margin-bottom: 30px;
