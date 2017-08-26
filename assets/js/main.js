@@ -30,6 +30,7 @@ jQuery(document).ready(function($) {
        }, 300, function(){
          window.location.hash = hash;
        });
+       this.blur();
      } // End if
    });
 
