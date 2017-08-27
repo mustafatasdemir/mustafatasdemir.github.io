@@ -47,8 +47,20 @@
   display:inline-block;
   margin-right: 10px;
   margin-bottom: 30px;
-  max-width: 7%;
+  max-width: 10%;
   height: auto;
+}
+
+.to-top {
+  display: block;
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 10px;
+  color: #97AAC3;
+}
+
+.to-top:hover {
+  color: #2d7788;
 }
 
 /* End - Custom CSS */
@@ -205,8 +217,9 @@ p {
 }
 .main-wrapper {
   background: #fff;
-  padding: 60px;
   padding-right: 320px;
+  padding-left: 60px;
+  padding-top: 60px;
 }
 .main-wrapper .section-title {
   text-transform: uppercase;
@@ -297,8 +310,7 @@ p {
   background: #7bc2d3;
 }
 .footer {
-  padding: 30px;
-  padding-top: 60px;
+  /*padding: 10px;*/
 }
 .footer .copyright {
   line-height: 1.6;
